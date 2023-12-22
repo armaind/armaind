@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @armaind
+- 👋 Hi, I’m @armain
 
 
 <!---
